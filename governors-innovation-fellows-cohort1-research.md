@@ -805,24 +805,37 @@ Fellows are selected based on:
 
 **Agency:** California Environmental Protection Agency
 
-**Mission:** Protect water quality and allocate water rights.
-
-**UPWARD Initiative:**
+**Mission:** Preserve, enhance, and restore the quality of California's water resources and drinking water for the protection of the environment, public health, and all beneficial uses.
 
 | Metric | Value |
 |--------|-------|
-| **Total Funding** | $60 million (staff + system) |
-| **CalWATRS System (Deloitte)** | $43 million |
-| **Water Right Holders** | ~40,000 |
-| **Paper Documents** | 7+ million |
+| **Annual Budget** | ~$632 million |
+| **Financial Assistance Distributed (FY24-25)** | $2 billion |
+| **Water Rights Administered** | 46,000+ |
+| **Public Drinking Water Systems Regulated** | 7,500+ |
+| **Regional Water Boards** | 9 |
 
-**CalWATRS System:**
-- Replaces eWRIMS (built 2006, now obsolete)
-- First-ever public access to water rights records via interactive map
-- View water rights by stream, watershed, water district, or property parcel
-- Simplifies reporting with step-by-step guided process
-- Largest data modernization project in Division of Water Rights history
-- CalWATRS was completed on time and within budget
+**Structure:**
+- Governed by a 5-member full-time board appointed by the Governor (each with different specialty areas)
+- Nine semi-autonomous Regional Water Quality Control Boards (created 1949) make water quality decisions for their watersheds
+- Regional boundaries based on watersheds; each region sets standards based on local climate, topography, geology, and hydrology
+
+**Key Divisions:**
+
+| Division | Function |
+|----------|----------|
+| **Division of Water Rights** | Administers California's water right system—permits, licenses, compliance, enforcement |
+| **Division of Water Quality** | Develops statewide water protection plans; regulates stormwater, wastewater, groundwater |
+| **Division of Drinking Water** | Enforces federal and California Safe Drinking Water Acts |
+| **Division of Financial Assistance** | Administers loan and grant funding for water infrastructure projects |
+
+**2025 Priorities:**
+- Climate resilience and groundwater sustainability
+- Expanding safe drinking water access to underserved communities
+- Nitrogen impact protections for groundwater (expert panel convened)
+- Racial Equity Action Plan implementation
+
+**Innovation:** The UPWARD initiative ($60M) modernized the Division of Water Rights through CalWATRS—see Brent Vanderburgh's profile for details.
 
 ---
 
