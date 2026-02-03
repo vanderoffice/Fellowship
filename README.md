@@ -46,42 +46,44 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 ## 👥 Cohort 1 Fellows by Agency
 
-**California Health & Human Services Agency** (3)
-- **Henri Aghaei Baradaran** — Research Data Analyst, DDS
-- **Bryanna McAdams** — Manager, Strategic Planning, DCSS
-- **Kattya Trinh** — All-Hazards Dashboard Product Owner, OTSI
+> **21 Fellows** · **9 Agencies** · **15 Departments**
 
-**California State Transportation Agency** (3)
-- **Ben Bressette** — Chief of Planning, Caltrans
-- **Liyuan Guo** — EEO Officer, DMV
-- **Lt. Marc Peachey** — Assistant Special Rep to Legislature, CHP
+#### 🏥 California Health & Human Services Agency
+**Henri Aghaei Baradaran** · Research Data Analyst, DDS
+**Bryanna McAdams** · Manager, Strategic Planning, DCSS
+**Kattya Trinh** · All-Hazards Dashboard Product Owner, OTSI
 
-**Government Operations Agency** (3)
-- **Lorna Brisco** — Chief, Training & Admin Services, DGS
-- **Jennifer Uyeda Issertell** — Deputy Transformation Officer, CDT
-- **Jeremiah Oakden** — Business Taxes Administrator III, CDTFA
+#### 🚗 California State Transportation Agency
+**Ben Bressette** · Chief of Planning, Caltrans
+**Liyuan Guo** · EEO Officer, DMV
+**Lt. Marc Peachey** · Assistant Special Rep to Legislature, CHP
 
-**California Environmental Protection Agency** (3)
-- **Christina Marin-Fitzhugh** — Branch Chief HR, CARB
-- **Kannan Krishnan** — Asst Deputy Director Scientific Programs, OEHHA
-- **Brent Vanderburgh** — Project Director UPWARD, SWRCB
+#### ⚙️ Government Operations Agency
+**Lorna Brisco** · Chief, Training & Admin Services, DGS
+**Jennifer Uyeda Issertell** · Deputy Transformation Officer, CDT
+**Jeremiah Oakden** · Business Taxes Administrator III, CDTFA
 
-**California Military Department** (3)
-- **SMSgt Blake E. Carter** — Personnel Info Management, Air National Guard
-- **Jai London** — Services Procurement Supervisor
-- **SSgt Kelton Pisano** — Emergency Finance & Fi$Cal NCO
+#### 🌿 California Environmental Protection Agency
+**Christina Marin-Fitzhugh** · Branch Chief HR, CARB
+**Kannan Krishnan** · Asst Deputy Director Scientific Programs, OEHHA
+**Brent Vanderburgh** · Project Director UPWARD, SWRCB
 
-**California Natural Resources Agency** (2)
-- **Elizabeth Betancourt** — Natural & Working Lands Policy Advisor, DWR
-- **Nikki Hatcher** — Contracts & Procurement Branch Manager, DWR
+#### 🎖️ California Military Department
+**SMSgt Blake E. Carter** · Personnel Info Management, Air National Guard
+**Jai London** · Services Procurement Supervisor
+**SSgt Kelton Pisano** · Emergency Finance & Fi$Cal NCO
 
-**CA Dept of Corrections & Rehabilitation** (2)
-- **Samantha Kissane** — Chief, Centralized Screening Team
-- **Chris Siino** — Associate Warden, CSP Solano
+#### 🌲 California Natural Resources Agency
+**Elizabeth Betancourt** · Natural & Working Lands Policy Advisor, DWR
+**Nikki Hatcher** · Contracts & Procurement Branch Manager, DWR
 
-**Governor's Office Entities** (2)
-- **Molly Linares** — Deputy Director Digital Design, California Volunteers
-- **Will Robinson** — Legislative Director, LCI
+#### 🔒 CA Dept of Corrections & Rehabilitation
+**Samantha Kissane** · Chief, Centralized Screening Team
+**Chris Siino** · Associate Warden, CSP Solano
+
+#### 🏛️ Governor's Office Entities
+**Molly Linares** · Deputy Director Digital Design, California Volunteers
+**Will Robinson** · Legislative Director, LCI
 
 <br>
 
