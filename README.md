@@ -48,9 +48,9 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 > **21 Fellows** · **9 Agencies** · **15 Departments**
 
-<br>
+---
 
-![Health & Human Services](https://img.shields.io/badge/California_Health_&_Human_Services_Agency-1a4480?style=for-the-badge)
+### California Health & Human Services Agency
 
 | Fellow | Role |
 |:-------|:-----|
@@ -58,9 +58,9 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 | **Bryanna McAdams** | Manager, Strategic Planning, DCSS |
 | **Kattya Trinh** | All-Hazards Dashboard Product Owner, OTSI |
 
-<br>
+---
 
-![Transportation](https://img.shields.io/badge/California_State_Transportation_Agency-046b99?style=for-the-badge)
+### California State Transportation Agency
 
 | Fellow | Role |
 |:-------|:-----|
@@ -68,9 +68,9 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 | **Liyuan Guo** | EEO Officer, DMV |
 | **Lt. Marc Peachey** | Assistant Special Rep to Legislature, CHP |
 
-<br>
+---
 
-![GovOps](https://img.shields.io/badge/Government_Operations_Agency-2e8540?style=for-the-badge)
+### Government Operations Agency
 
 | Fellow | Role |
 |:-------|:-----|
@@ -78,9 +78,9 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 | **Jennifer Uyeda Issertell** | Deputy Transformation Officer, CDT |
 | **Jeremiah Oakden** | Business Taxes Administrator III, CDTFA |
 
-<br>
+---
 
-![CalEPA](https://img.shields.io/badge/California_Environmental_Protection_Agency-cd2026?style=for-the-badge)
+### California Environmental Protection Agency
 
 | Fellow | Role |
 |:-------|:-----|
@@ -88,9 +88,9 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 | **Kannan Krishnan** | Asst Deputy Director Scientific Programs, OEHHA |
 | **Brent Vanderburgh** | Project Director UPWARD, SWRCB |
 
-<br>
+---
 
-![Military](https://img.shields.io/badge/California_Military_Department-5c4827?style=for-the-badge)
+### California Military Department
 
 | Fellow | Role |
 |:-------|:-----|
@@ -98,27 +98,27 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 | **Jai London** | Services Procurement Supervisor |
 | **SSgt Kelton Pisano** | Emergency Finance & Fi$Cal NCO |
 
-<br>
+---
 
-![Natural Resources](https://img.shields.io/badge/California_Natural_Resources_Agency-00838f?style=for-the-badge)
+### California Natural Resources Agency
 
 | Fellow | Role |
 |:-------|:-----|
 | **Elizabeth Betancourt** | Natural & Working Lands Policy Advisor, DWR |
 | **Nikki Hatcher** | Contracts & Procurement Branch Manager, DWR |
 
-<br>
+---
 
-![CDCR](https://img.shields.io/badge/CA_Dept_of_Corrections_&_Rehabilitation-6b3a75?style=for-the-badge)
+### CA Dept of Corrections & Rehabilitation
 
 | Fellow | Role |
 |:-------|:-----|
 | **Samantha Kissane** | Chief, Centralized Screening Team |
 | **Chris Siino** | Associate Warden, CSP Solano |
 
-<br>
+---
 
-![Governor's Office](https://img.shields.io/badge/Governor's_Office_Entities-d85c27?style=for-the-badge)
+### Governor's Office Entities
 
 | Fellow | Role |
 |:-------|:-----|
