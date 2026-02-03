@@ -1084,16 +1084,6 @@ Fellows work with UC Berkeley Goldman School on:
 4. **Cross-Agency Visibility:** Innovations can be diffused across government
 5. **Overlapping Cohorts:** 4-month cycle creates continuous institutional knowledge transfer
 
-### Pre-Existing Innovations by Fellows
-
-| Fellow | Innovation |
-|--------|------------|
-| Blake E. Carter | A1 Connect platform (Wing collaboration) |
-| Kattya Trinh | NASCIO award-winning All-Hazards Dashboard |
-| Nikki Hatcher | 5% Contract Reduction Pilot Project |
-| Brent Vanderburgh | $60M UPWARD water rights modernization |
-| Jennifer Uyeda Issertell | EDD Strike Team blueprint |
-
 ---
 
 ## Sources

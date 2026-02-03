@@ -104,28 +104,6 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 ---
 
-## Key Innovations by Fellows
-
-| Fellow | Innovation | Impact |
-|--------|------------|--------|
-| Brent Vanderburgh | UPWARD / CalWATRS | $60M modernization of 7M+ water rights documents |
-| Kattya Trinh | All-Hazards Dashboard | NASCIO award-winning emergency management platform |
-| Blake E. Carter | A1 Connect Platform | First-ever CA Air National Guard Wing collaboration |
-| Nikki Hatcher | 5% Contract Reduction Pilot | Statewide procurement efficiency initiative |
-| Jennifer Uyeda Issertell | EDD Strike Team | COVID-era unemployment system transformation |
-
----
-
-## Program Leadership
-
-| Role | Name | Organization |
-|------|------|--------------|
-| Senior Counselor to the Governor | **Amy Tong** | Governor's Office |
-| Deputy Secretary, Govt Improvement | **Stuart Drown** | GovOps |
-| Program Director / Chief Innovation Training Officer | **Anne Crew-Renzo** | ODI / CalAcademy |
-
----
-
 ## Training Partners
 
 - **Office of Data and Innovation (ODI)** — Human-centered design, data strategy
