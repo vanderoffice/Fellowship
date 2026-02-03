@@ -514,20 +514,17 @@ Fellows are selected based on:
 
 | Metric | Value |
 |--------|-------|
-| **Total Funding** | $60 million |
-| **CalWATRS Contract (Deloitte)** | $43 million |
+| **Total Funding** | $60 million (staff + system) |
+| **CalWATRS System (Deloitte)** | $43 million |
 | **Water Right Holders** | ~40,000 |
 | **Paper Documents** | 7+ million (dating to late 1800s) |
-| **Documents Digitized** | 500,000+ (~7% complete) |
-| **Digitization Timeline** | 7-year effort |
 
 **Project Scope:**
 - CalWATRS (California Water Accounting, Tracking, and Reporting System) replaces eWRIMS (built 2006, now obsolete)
 - Largest data modernization project in the history of the Division of Water Rights
-- Digitizing **7+ million paper documents** representing over a century of California water rights history
 - Making ~40,000 water rights accessible to the public for the first time via interactive map
 - New mapping features allow viewing water rights by stream, watershed, water district, and individual property parcel
-- System went live July 2025; completed within budget at $61.5 million
+- CalWATRS was completed on time and within budget
 
 ---
 
@@ -814,11 +811,10 @@ Fellows are selected based on:
 
 | Metric | Value |
 |--------|-------|
-| **Total Funding** | $60 million |
-| **CalWATRS Contract (Deloitte)** | $43 million |
+| **Total Funding** | $60 million (staff + system) |
+| **CalWATRS System (Deloitte)** | $43 million |
 | **Water Right Holders** | ~40,000 |
 | **Paper Documents** | 7+ million |
-| **Digitization Progress** | 500,000+ scanned (~7%) |
 
 **CalWATRS System:**
 - Replaces eWRIMS (built 2006, now obsolete)
@@ -826,7 +822,7 @@ Fellows are selected based on:
 - View water rights by stream, watershed, water district, or property parcel
 - Simplifies reporting with step-by-step guided process
 - Largest data modernization project in Division of Water Rights history
-- System launched July 2025; 7-year digitization effort underway
+- CalWATRS was completed on time and within budget
 
 ---
 
