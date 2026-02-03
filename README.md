@@ -46,66 +46,42 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 ## 👥 Cohort 1 Fellows by Agency
 
-<details>
-<summary><strong>California Health & Human Services Agency</strong> (3)</summary>
-
+**California Health & Human Services Agency** (3)
 - **Henri Aghaei Baradaran** — Research Data Analyst, DDS
 - **Bryanna McAdams** — Manager, Strategic Planning, DCSS
 - **Kattya Trinh** — All-Hazards Dashboard Product Owner, OTSI
-</details>
 
-<details>
-<summary><strong>California State Transportation Agency</strong> (3)</summary>
-
+**California State Transportation Agency** (3)
 - **Ben Bressette** — Chief of Planning, Caltrans
 - **Liyuan Guo** — EEO Officer, DMV
 - **Lt. Marc Peachey** — Assistant Special Rep to Legislature, CHP
-</details>
 
-<details>
-<summary><strong>Government Operations Agency</strong> (3)</summary>
-
+**Government Operations Agency** (3)
 - **Lorna Brisco** — Chief, Training & Admin Services, DGS
 - **Jennifer Uyeda Issertell** — Deputy Transformation Officer, CDT
 - **Jeremiah Oakden** — Business Taxes Administrator III, CDTFA
-</details>
 
-<details>
-<summary><strong>California Environmental Protection Agency</strong> (3)</summary>
-
+**California Environmental Protection Agency** (3)
 - **Christina Marin-Fitzhugh** — Branch Chief HR, CARB
 - **Kannan Krishnan** — Asst Deputy Director Scientific Programs, OEHHA
 - **Brent Vanderburgh** — Project Director UPWARD, SWRCB
-</details>
 
-<details>
-<summary><strong>California Military Department</strong> (3)</summary>
-
+**California Military Department** (3)
 - **SMSgt Blake E. Carter** — Personnel Info Management, Air National Guard
 - **Jai London** — Services Procurement Supervisor
 - **SSgt Kelton Pisano** — Emergency Finance & Fi$Cal NCO
-</details>
 
-<details>
-<summary><strong>California Natural Resources Agency</strong> (2)</summary>
-
+**California Natural Resources Agency** (2)
 - **Elizabeth Betancourt** — Natural & Working Lands Policy Advisor, DWR
 - **Nikki Hatcher** — Contracts & Procurement Branch Manager, DWR
-</details>
 
-<details>
-<summary><strong>CA Dept of Corrections & Rehabilitation</strong> (2)</summary>
-
+**CA Dept of Corrections & Rehabilitation** (2)
 - **Samantha Kissane** — Chief, Centralized Screening Team
 - **Chris Siino** — Associate Warden, CSP Solano
-</details>
 
-<details>
-<summary><strong>Governor's Office Entities</strong> (2)</summary>
-
+**Governor's Office Entities** (2)
 - **Molly Linares** — Deputy Director Digital Design, California Volunteers
 - **Will Robinson** — Legislative Director, LCI
-</details>
 
 <br>
 
