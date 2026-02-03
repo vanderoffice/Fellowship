@@ -515,15 +515,19 @@ Fellows are selected based on:
 | Metric | Value |
 |--------|-------|
 | **Total Funding** | $60 million |
-| **CalWATRS Funding** | $40 million |
-| **Water Rights Records** | ~40,000 |
+| **CalWATRS Contract (Deloitte)** | $43 million |
+| **Water Right Holders** | ~40,000 |
+| **Paper Documents** | 7+ million (dating to late 1800s) |
+| **Documents Digitized** | 500,000+ (~7% complete) |
+| **Digitization Timeline** | 7-year effort |
 
 **Project Scope:**
-- CalWATRS (California Water Accounting, Tracking, and Reporting System) replaces eWRIMS (outdated platform nearly 20 years old)
-- Makes paper water rights records available online
-- Creates new digital infrastructure and governance processes
-- Improves water rights data quality and accessibility
-- **First time in California's history** that ~40,000 water rights records are easily accessible to the public through an interactive map
+- CalWATRS (California Water Accounting, Tracking, and Reporting System) replaces eWRIMS (built 2006, now obsolete)
+- Largest data modernization project in the history of the Division of Water Rights
+- Digitizing **7+ million paper documents** representing over a century of California water rights history
+- Making ~40,000 water rights accessible to the public for the first time via interactive map
+- New mapping features allow viewing water rights by stream, watershed, water district, and individual property parcel
+- System went live July 2025; completed within budget at $61.5 million
 
 ---
 
@@ -811,14 +815,18 @@ Fellows are selected based on:
 | Metric | Value |
 |--------|-------|
 | **Total Funding** | $60 million |
-| **CalWATRS Funding** | $40 million |
-| **Water Rights Records** | ~40,000 |
+| **CalWATRS Contract (Deloitte)** | $43 million |
+| **Water Right Holders** | ~40,000 |
+| **Paper Documents** | 7+ million |
+| **Digitization Progress** | 500,000+ scanned (~7%) |
 
 **CalWATRS System:**
-- Replaces eWRIMS (nearly 20 years old)
+- Replaces eWRIMS (built 2006, now obsolete)
 - First-ever public access to water rights records via interactive map
-- Simplifies reporting processes
-- New digital infrastructure and governance
+- View water rights by stream, watershed, water district, or property parcel
+- Simplifies reporting with step-by-step guided process
+- Largest data modernization project in Division of Water Rights history
+- System launched July 2025; 7-year digitization effort underway
 
 ---
 
