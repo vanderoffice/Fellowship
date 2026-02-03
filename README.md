@@ -23,7 +23,7 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 <br>
 
-## 📊 Cohort 1 at a Glance
+## Cohort 1 at a Glance
 
 | Metric | Value |
 |:-------|------:|
@@ -36,7 +36,7 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 <br>
 
-## 📄 Documentation
+## Documentation
 
 | Document | Description |
 |:---------|:------------|
@@ -44,50 +44,50 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 <br>
 
-## 👥 Cohort 1 Fellows by Agency
+## Cohort 1 Fellows by Agency
 
 > **21 Fellows** · **9 Agencies** · **15 Departments**
 
-#### 🏥 California Health & Human Services Agency
-**Henri Aghaei Baradaran** · Research Data Analyst, DDS
-**Bryanna McAdams** · Manager, Strategic Planning, DCSS
+<ins>**California Health & Human Services Agency**</ins><br>
+**Henri Aghaei Baradaran** · Research Data Analyst, DDS<br>
+**Bryanna McAdams** · Manager, Strategic Planning, DCSS<br>
 **Kattya Trinh** · All-Hazards Dashboard Product Owner, OTSI
 
-#### 🚗 California State Transportation Agency
-**Ben Bressette** · Chief of Planning, Caltrans
-**Liyuan Guo** · EEO Officer, DMV
+<ins>**California State Transportation Agency**</ins><br>
+**Ben Bressette** · Chief of Planning, Caltrans<br>
+**Liyuan Guo** · EEO Officer, DMV<br>
 **Lt. Marc Peachey** · Assistant Special Rep to Legislature, CHP
 
-#### ⚙️ Government Operations Agency
-**Lorna Brisco** · Chief, Training & Admin Services, DGS
-**Jennifer Uyeda Issertell** · Deputy Transformation Officer, CDT
+<ins>**Government Operations Agency**</ins><br>
+**Lorna Brisco** · Chief, Training & Admin Services, DGS<br>
+**Jennifer Uyeda Issertell** · Deputy Transformation Officer, CDT<br>
 **Jeremiah Oakden** · Business Taxes Administrator III, CDTFA
 
-#### 🌿 California Environmental Protection Agency
-**Christina Marin-Fitzhugh** · Branch Chief HR, CARB
-**Kannan Krishnan** · Asst Deputy Director Scientific Programs, OEHHA
+<ins>**California Environmental Protection Agency**</ins><br>
+**Christina Marin-Fitzhugh** · Branch Chief HR, CARB<br>
+**Kannan Krishnan** · Asst Deputy Director Scientific Programs, OEHHA<br>
 **Brent Vanderburgh** · Project Director UPWARD, SWRCB
 
-#### 🎖️ California Military Department
-**SMSgt Blake E. Carter** · Personnel Info Management, Air National Guard
-**Jai London** · Services Procurement Supervisor
+<ins>**California Military Department**</ins><br>
+**SMSgt Blake E. Carter** · Personnel Info Management, Air National Guard<br>
+**Jai London** · Services Procurement Supervisor<br>
 **SSgt Kelton Pisano** · Emergency Finance & Fi$Cal NCO
 
-#### 🌲 California Natural Resources Agency
-**Elizabeth Betancourt** · Natural & Working Lands Policy Advisor, DWR
+<ins>**California Natural Resources Agency**</ins><br>
+**Elizabeth Betancourt** · Natural & Working Lands Policy Advisor, DWR<br>
 **Nikki Hatcher** · Contracts & Procurement Branch Manager, DWR
 
-#### 🔒 CA Dept of Corrections & Rehabilitation
-**Samantha Kissane** · Chief, Centralized Screening Team
+<ins>**CA Dept of Corrections & Rehabilitation**</ins><br>
+**Samantha Kissane** · Chief, Centralized Screening Team<br>
 **Chris Siino** · Associate Warden, CSP Solano
 
-#### 🏛️ Governor's Office Entities
-**Molly Linares** · Deputy Director Digital Design, California Volunteers
+<ins>**Governor's Office Entities**</ins><br>
+**Molly Linares** · Deputy Director Digital Design, California Volunteers<br>
 **Will Robinson** · Legislative Director, LCI
 
 <br>
 
-## 🤝 Training Partners
+## Training Partners
 
 | Partner | Focus Area |
 |:--------|:-----------|
@@ -98,7 +98,7 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 <br>
 
-## 🔗 Resources
+## Resources
 
 **Official Sources**
 - [Governor's Innovation Fellows Program](https://innovation.ca.gov/our-work/governors-innovation-fellows-program/) — ODI
