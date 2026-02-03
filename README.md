@@ -131,7 +131,7 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 This repository serves as a knowledge base for research, documentation, and resources related to California's Governor's Innovation Fellows Program and broader government modernization initiatives under Executive Order N-30-25.
 
-**Maintained by:** Office of the Governor
+**Maintained by:** Cohort 1
 **Last Updated:** February 2026
 
 ---
