@@ -48,40 +48,64 @@ The Governor's Innovation Fellows Program launched in 2025 as a cornerstone of G
 
 > **21 Fellows** · **9 Agencies** · **15 Departments**
 
-<ins>**California Health & Human Services Agency**</ins><br>
+---
+
+![Health & Human Services](https://img.shields.io/badge/California_Health_&_Human_Services_Agency-1a4480?style=flat-square)
+
 **Henri Aghaei Baradaran** · Research Data Analyst, DDS<br>
 **Bryanna McAdams** · Manager, Strategic Planning, DCSS<br>
 **Kattya Trinh** · All-Hazards Dashboard Product Owner, OTSI
 
-<ins>**California State Transportation Agency**</ins><br>
+---
+
+![Transportation](https://img.shields.io/badge/California_State_Transportation_Agency-046b99?style=flat-square)
+
 **Ben Bressette** · Chief of Planning, Caltrans<br>
 **Liyuan Guo** · EEO Officer, DMV<br>
 **Lt. Marc Peachey** · Assistant Special Rep to Legislature, CHP
 
-<ins>**Government Operations Agency**</ins><br>
+---
+
+![GovOps](https://img.shields.io/badge/Government_Operations_Agency-2e8540?style=flat-square)
+
 **Lorna Brisco** · Chief, Training & Admin Services, DGS<br>
 **Jennifer Uyeda Issertell** · Deputy Transformation Officer, CDT<br>
 **Jeremiah Oakden** · Business Taxes Administrator III, CDTFA
 
-<ins>**California Environmental Protection Agency**</ins><br>
+---
+
+![CalEPA](https://img.shields.io/badge/California_Environmental_Protection_Agency-cd2026?style=flat-square)
+
 **Christina Marin-Fitzhugh** · Branch Chief HR, CARB<br>
 **Kannan Krishnan** · Asst Deputy Director Scientific Programs, OEHHA<br>
 **Brent Vanderburgh** · Project Director UPWARD, SWRCB
 
-<ins>**California Military Department**</ins><br>
+---
+
+![Military](https://img.shields.io/badge/California_Military_Department-5c4827?style=flat-square)
+
 **SMSgt Blake E. Carter** · Personnel Info Management, Air National Guard<br>
 **Jai London** · Services Procurement Supervisor<br>
 **SSgt Kelton Pisano** · Emergency Finance & Fi$Cal NCO
 
-<ins>**California Natural Resources Agency**</ins><br>
+---
+
+![Natural Resources](https://img.shields.io/badge/California_Natural_Resources_Agency-00838f?style=flat-square)
+
 **Elizabeth Betancourt** · Natural & Working Lands Policy Advisor, DWR<br>
 **Nikki Hatcher** · Contracts & Procurement Branch Manager, DWR
 
-<ins>**CA Dept of Corrections & Rehabilitation**</ins><br>
+---
+
+![CDCR](https://img.shields.io/badge/CA_Dept_of_Corrections_&_Rehabilitation-6b3a75?style=flat-square)
+
 **Samantha Kissane** · Chief, Centralized Screening Team<br>
 **Chris Siino** · Associate Warden, CSP Solano
 
-<ins>**Governor's Office Entities**</ins><br>
+---
+
+![Governor's Office](https://img.shields.io/badge/Governor's_Office_Entities-d85c27?style=flat-square)
+
 **Molly Linares** · Deputy Director Digital Design, California Volunteers<br>
 **Will Robinson** · Legislative Director, LCI
 
