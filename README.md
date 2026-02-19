@@ -1,16 +1,18 @@
-# 🏛️ Governor's Innovation Fellows Program
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+# Governor's Innovation Fellows Program
 
 **Cohort 1 Knowledge Repository**
 
-> Executive Order N-30-25 · 21 Fellows · 9 Agencies · 15 Departments
+Executive Order N-30-25 · 21 Fellows · 9 Agencies · 15 Departments
 
 ---
 
-## 📌 Overview
+## Overview
 
 Launched in 2025 as a cornerstone of Governor Newsom's government modernization initiative, the Innovation Fellows Program functions as a delivery engine — developing leaders while producing measurable improvements in government efficiency and service delivery.
 
-## 📊 Cohort 1 at a Glance
+## Cohort 1 at a Glance
 
 | Metric | Value |
 |--------|------:|
@@ -21,14 +23,16 @@ Launched in 2025 as a cornerstone of Governor Newsom's government modernization 
 | Time on Projects | 80% |
 | New Cohort Cycle | Every 4 months |
 
-## 📄 Documentation
+---
+
+## Documentation
 
 | Document | Description |
 |----------|-------------|
 | [Charter](CHARTER.md) | Mission, scope, and operating principles for Cohort 1 Senior Fellows |
 | [Cohort 1 Research](governors-innovation-fellows-cohort1-research.md) | Research report on the fellowship program |
 
-## 👥 Cohort 1 Fellows by Agency
+## Fellows by Agency
 
 **9 Agencies · 15 Departments · 21 Fellows**
 
@@ -41,14 +45,16 @@ Launched in 2025 as a cornerstone of Governor Newsom's government modernization 
 - **CA Dept of Corrections & Rehabilitation** — 2 fellows
 - **Governor's Office Entities** — 2 fellows
 
-## 🤝 Training Partners
+---
+
+## Training Partners
 
 - [Office of Data and Innovation (ODI)](https://innovation.ca.gov/)
 - [CalAcademy](https://www.calhr.ca.gov/Training/Pages/CalAcademy.aspx)
 - UC Berkeley Goldman School of Public Policy
 - California Breakthrough Project
 
-## 🔗 Resources
+## Resources
 
 - [Presentation Library](https://vanderoffice.github.io/presentations/) — briefings, training modules, and operational decks
 - [ODI Fellows Page](https://innovation.ca.gov/who-we-are/fellows/)
@@ -58,4 +64,6 @@ Launched in 2025 as a cornerstone of Governor Newsom's government modernization 
 
 *Maintained by Cohort 1 · Last Updated February 2026*
 
-📄 **License:** CC BY 4.0
+## License
+
+CC BY 4.0
